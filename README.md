@@ -1,2 +1,2 @@
-# Leetcode-SQL-50
-Bench training SQL 50 path
+# LeetCode
+Here you can find my solutions to LeetCode practice problems and study plans.
